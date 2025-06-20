@@ -9,4 +9,4 @@ Technologies:-
 - NumPy – numerical operations
 - Scikit-learn – regression models and evaluation
 - Matplotlib – data visualization
-- JupyterLab Notebook - to see the complete functioning at one place.
+- JupyterLab Notebook - to run locally.
